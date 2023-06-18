@@ -1,9 +1,8 @@
 #include<stdio.h>
 
 int main(void)
-
 {
-	printf("%zd", sizeof(long long));
-
+	//Code
+	printf("Hello World !!!\n");
 	return(0);
 }
