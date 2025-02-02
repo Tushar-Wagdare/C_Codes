@@ -1,6 +1,6 @@
 # C Language Code Repository
 
-This repository contains various C language code examples, implementations of algorithms, and data structures.
+This repository contains various C language code examples, implementations of algorithms.
 
 ## Table of Contents
 
